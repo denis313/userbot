@@ -2,6 +2,7 @@ from pyrogram import Client,  filters
 from pyrogram.handlers import MessageHandler
 
 # Target chat. Can also be a list of multiple chat ids/usernam
+#user
 api_id = 29864138
 api_hash = "c8b7fae41465d5685c2df4e74e0cb6ef"
 
